@@ -2,3 +2,4 @@ Kalimat pertama pada file
 Nambahin kalimat kedua pada file
 Kalimat ketiga pada file
 Kalimat keempat pada file
+Kalimat KELIMA dan TERAKHIR dari file ini untuk melihat history dari GIT
